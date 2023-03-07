@@ -16,7 +16,7 @@ This is a simple calculator program written in C. The program takes two integer 
 ## Example Usage
 ```console
 
-$ gcc calculator.c -o calculator
+$ gcc main.c -o calculator
 $ ./calculator
 Enter first number:
 10
